@@ -3,3 +3,7 @@ receta 2: espaguetis -> los hierves y les echas tomate
 receta 3: comida
 receta 4: comida
 receta 5: comida 
+receta marisco 1 : comida
+receta pescado 1 : comida 
+receta pescado 2 : comida 
+
